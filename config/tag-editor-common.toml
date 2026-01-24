@@ -1,0 +1,7 @@
+#Whether to enable the tag editor box in the Creative Mode inventory.
+#Only players with a permission level higher than 2 can make edits.
+"Enable Editor" = true
+#Whether to force TACZ to be compatible with more features.
+#Some features may have stability issues.
+"Force Compat" = false
+
