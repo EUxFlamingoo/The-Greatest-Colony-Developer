@@ -1,0 +1,16 @@
+crash-reports/
+saves/
+xaero/
+XaeroWaypoints_BACKUP240807/
+minecraftinstance.json
+options.txt
+usercache.json
+usernamecache.json
+user-prefs.json
+.physics_mod_cache/
+.world-host-cache/
+local/
+logs/
+modernfix/
+recruits/
+screenshots/
